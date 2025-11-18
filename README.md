@@ -4,5 +4,4 @@ This project was completed as part of my internship with UNP Education and focus
 
 GOOGLE COLAB LINK: https://drive.google.com/file/d/1bALaFNHLHwDKi9ksCTbLropktZqVTVhA/view?usp=sharing
 
-
 PROJECT PRESENTATION: https: https://drive.google.com/file/d/1JvdocdjoObjYUv3lUSC4HFkn1DiUQDmh/view?usp=sharing
